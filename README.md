@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **potoczny011@gmail.com**
 
-- ⚡ Fun fact **I studing in high school**
+- ⚡ fact **I studing in high school**
 <br/>
 
 <h3 align="left">🚀Languages and Tools:</h3>
