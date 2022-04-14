@@ -13,7 +13,7 @@
 
 <h3> 🙋‍♂️ About Me</h3>
 
-- 🔭 I’m working on my custom project **
+- 🔭 I’m working on my *custom project* 
 
 - 🌱 I’m currently learning *React with c# Api*
 
