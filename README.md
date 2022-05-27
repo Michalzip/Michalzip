@@ -15,7 +15,7 @@
 
 - 🔭 I’m working on my *custom project* 
 
-- 🌱 I’m currently learning *React with Nodejs*
+- 🌱 I’m currently learning  *Flutter, Nodejs*
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
