@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Michał</h1>
-<h3 align="center">I'm a passionate FullStack developer from Poland</h3>
+<h3 align="center">I'm a passionate developer from Poland</h3>
 
 
 <p align="left">
 </p>
-<p align="center">
-<img align="center" src="https://c.tenor.com/Sizr7lLhJFgAAAAC/loading-now-loading.gif" width="500" height="200" />
-</p>
+
 
 ##
 
@@ -15,7 +13,6 @@
 
 - 🔭 I’m working on my *custom project* 
 
-- 🌱 I’m currently learning  *Flutter, c#/NET*
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
