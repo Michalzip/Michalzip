@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Michał</h1>
-<h3 align="center">I'm a passionate programmer from Poland</h3>
+<h1 align="left">✨ Hi! I'm Michał✨.</h1>
+
+<h3 align="left">🖥️ I'm a back-end developer, who have 2 years experience. 🖥️</h3>
 
 
 <p align="left">
@@ -11,7 +12,7 @@
 
 <h3> 🙋‍♂️ About Me</h3>
 
-- 🔭 I’m working on my *custom project* 
+- 🔭 I’m working on my *custom project* for fun
 
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
