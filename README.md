@@ -41,12 +41,8 @@
 
 
     
-[![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs?username=programmingisfun11&theme=react&hide_border=true&bg_color=0D1117&show_icons=true&locale=en&layout=compact")](https://github.com/programmingisfun11/github-readme-streak-stats)
-<br />
-
----
 
 
 
 
-<a href="https://github.com/programmingisfun11/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=programmingisfun11&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
