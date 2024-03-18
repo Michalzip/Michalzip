@@ -12,7 +12,7 @@
 
 <h3> 🙋‍♂️ About Me</h3>
 
-- 🔭 I’m working on my *custom project* for fun
+- 🔭 I’m working on my *custom project* for fun and ambitions
 
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
