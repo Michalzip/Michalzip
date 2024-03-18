@@ -1,6 +1,6 @@
 <h1 align="left">✨ Hi! I'm Michał✨.</h1>
 
-<h3 align="left">🖥️ I'm a back-end developer, who have 2 years experience. 🖥️</h3>
+<h3 align="left">🖥️ I'm a back-end developer 🖥️</h3>
 
 
 <p align="left">
