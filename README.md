@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **potoczny011@gmail.com**
 
-- ⚡ fact **I studing in high school**
+- ⚡ fact I am interested in artificial intelligence
 <br/>
 
 <h3 align="left">🚀Languages and Tools:</h3>
