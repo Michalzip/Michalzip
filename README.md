@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **potoczny011@gmail.com**
 
-- ⚡ fact I am interested in artificial intelligence
+- ⚡ fact: I am interested in artificial intelligence and the aesthetics of writing good code
 <br/>
 
 <h3 align="left">🚀Languages and Tools:</h3>
